@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Joel-Cedrick
 - 👀 I’m interested in Technologies, coding app, Robotic 
 - 🌱 I’m currently learning React js and Robotic solution
-- 📫 How to reach me : let me an email on 
+- 📫 How to reach me : let me an email on nontonhus@gmail.com
 
 <!---
 Joel-Cedrick/Joel-Cedrick is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
